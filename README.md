@@ -18,6 +18,8 @@ This is a work in progress hosting help list. I'll add onto it whenever I have t
 
 4) The more apps you put on one account the more your Dyno hours will go down.
 
+### Lets get started
+
 Step 1: Go to your project and add `Procfile` with the contents of 
 ```bash
 worker: node index.js
