@@ -20,7 +20,7 @@ This is a work in progress hosting help list. I'll add onto it whenever I have t
 
 ### Lets get started
 
-Step 1: Go to your project and add `Procfile` with the contents of 
+Step 1: Go to your project and add `Procfile` file with the contents of 
 ```bash
 worker: node index.js
 ```
